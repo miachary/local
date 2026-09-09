@@ -12,7 +12,7 @@ This is a learning project. The person driving is a product manager, not an engi
 
 This project is scoped to ONE pilot town/county. Do not generalize to "any US locality" prematurely — that's real scope creep for a learning project and it's what makes civic-data aggregation hard in the first place. When something needs to be locality-specific (a source URL, a document format), it's fine to hardcode it for now; we deliberately refactor toward config-driven multi-locality support later (Week 7), not before.
 
-Pilot locality: **TBD — set this in Week 1.**
+Pilot locality: **Sandy, Utah.**
 
 ## Stack
 
