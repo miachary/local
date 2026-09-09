@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables / secrets — never commit these (this project uses Supabase + Claude API keys)
+.env
+.env.local
+.env.*.local
+
+# Raw source documents pulled during ingestion (budget PDFs etc.) — re-fetchable, don't bloat the repo
+data/raw/
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Claude Code local settings (keep CLAUDE.md, ignore local-only overrides)
+.claude/settings.local.json
