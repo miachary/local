@@ -39,7 +39,7 @@ Pilot locality: **Sandy, Utah.**
 
 (Fill these in as they're created — this is intentionally empty at the start.)
 
-- Frontend dev server: `TBD — added in Week 1`
+- Frontend dev server: `cd frontend && npm install && npm run dev` (Vite, serves at http://localhost:5173)
 - Backend dev server: `TBD — added in Week 2`
 - Ingestion script(s): `TBD — added in Week 3`
 - Extraction pipeline: `TBD — added in Week 5`
