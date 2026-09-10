@@ -1,0 +1,34 @@
+[
+  {
+    "jurisdiction": "Salt Lake County / State of Utah",
+    "level": ["county", "state"],
+    "election_name": "2026 Utah General Election",
+    "election_date": "2026-11-03",
+    "registration_deadline": "2026-10-23",
+    "ballot_mailing_start": "2026-10-13",
+    "early_voting_start": "2026-10-20",
+    "offices_up": [
+      "Salt Lake County Council",
+      "Local School Board",
+      "Judicial Retention",
+      "Utah House District 42",
+      "Utah Senate District 19"
+    ],
+    "source_url": "https://www.saltlakecounty.gov/clerk/elections/dates-deadlines2026/",
+    "last_verified": "2026-09-10",
+    "confirmed": true
+  },
+  {
+    "jurisdiction": "Sandy City",
+    "level": ["city"],
+    "election_name": "2027 Sandy City Municipal Election",
+    "election_date": "2027-11-02",
+    "registration_deadline": null,
+    "early_voting_start": null,
+    "offices_up": ["Mayor", "City Council"],
+    "source_url": "https://sandy.utah.gov/337/Elections",
+    "last_verified": "2026-09-10",
+    "confirmed": false,
+    "note": "Follows Utah's odd-year municipal election pattern (first Tuesday after first Monday in November); Sandy City hasn't published an official 2027 notice yet."
+  }
+]

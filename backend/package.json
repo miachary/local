@@ -1,0 +1,15 @@
+{
+  "name": "local-backend",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Express API for Local — civic transparency site for Sandy, Utah",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
